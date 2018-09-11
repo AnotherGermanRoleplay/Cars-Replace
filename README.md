@@ -4,19 +4,12 @@ All replaced cars of AGRP.
 
 ## Licensed under GNU General Public License v3
 ### Short version:
-Permissions
-    Commercial use
-    Distribution
-    Modification
-    Patent use
-    Private use
+|	Permissions	|	Conditions	|	Limitations	|
+|-----------------------|-----------------------|-----------------------|
+| Commercial Use	| Disclose source	| Liability		|
+| Distribution		| License and copyright notice	| Warranty	|
+| Modification		| Samel icense		|			|
+| Patent use		| State changes		|			|
+| Private use		|			|			|
 
-Conditions
-    Disclose source
-    License and copyright notice
-    Same license
-    State changes
-
-Limitations
-    Liability
-    Warranty
+See [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/) for more information
