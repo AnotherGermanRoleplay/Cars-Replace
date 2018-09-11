@@ -8,7 +8,7 @@ All replaced cars of AGRP.
 |-----------------------|-----------------------|-----------------------|
 | Commercial Use	| Disclose source	| Liability		|
 | Distribution		| License and copyright notice	| Warranty	|
-| Modification		| Samel icense		|			|
+| Modification		| Same license		|			|
 | Patent use		| State changes		|			|
 | Private use		|			|			|
 
